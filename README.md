@@ -1,14 +1,19 @@
-# Sample Hardhat Project
+# [ Challenge ] HTB Survival_of_the_Fittest
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is a script that i make to solve the challenge from Hack the Box
 
-Try running some of the following tasks:
+you can see the code or check the explaniation in my website : https://kypanz.github.io/
+
+# Configuration
+Change the name of the file `.env.example` to `.env`
+
+# Installation and commands to run
+please before run try to understand the flow of how is solved
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+npm install # to run
+npx hardhat test # to run the solution
 ```
-# htb_Survival_of_the_Fittest
+
+# After run
+You can get the flag from `${ip}/flag`
