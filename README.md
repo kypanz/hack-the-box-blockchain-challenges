@@ -12,7 +12,7 @@ please before run try to understand the flow of how is solved
 
 ```shell
 npm install # to run
-npx hardhat test # to run the solution
+npx hardhat test --network htb # to run the solution
 ```
 
 # After run
