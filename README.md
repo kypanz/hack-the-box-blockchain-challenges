@@ -1,8 +1,8 @@
-# [ Challenge ] HTB Survival_of_the_Fittest
+# [ Challenge ] CTF Hack The box - Blockchain Challenges
 
-This is a script that i make to solve the challenge from Hack the Box
+This is a script that i make to solve the challenges from Hack the Box
 
-you can see the code or check the explaniation in my website : https://kypanz.github.io/
+you can see the code or check the explaniation in my litte space : https://kypanz.github.io/
 
 # Configuration
 Change the name of the file `.env.example` to `.env`
