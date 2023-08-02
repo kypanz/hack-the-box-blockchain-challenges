@@ -10,8 +10,9 @@ contract Setup {
         require(msg.value == 1 ether);
         TARGET = new Creature{value: 10}();
     }
-
+    
     function isSolved() public view returns (bool) {
         return address(TARGET).balance == 0;
     }
 }
+
