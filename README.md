@@ -1,4 +1,4 @@
-# [ Challenge ] CTF Hack The box - Blockchain Challenges
+# [ Challenges ] CTF Hack The box - Blockchain
 
 This is a script that i make to solve the challenges from Hack the Box
 
